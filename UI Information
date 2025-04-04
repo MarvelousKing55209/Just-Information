@@ -1,0 +1,160 @@
+local information = {
+    the_scripts = {
+        ["Prison Life"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "7/8/24",
+            number = 1,
+        },
+
+        ["Live Topia"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "7/9/24",
+            number = 2,
+        },
+
+        ["City Life"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "7/10/24",
+            number = 3,
+        },
+
+        ["Prison Adventure"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "7/11/24",
+            number = 4,
+        },
+
+        ["Swat VS Crims"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "7/12/24",
+            number = 5,
+        },
+
+        ["Brookhaven"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "7/13/24",
+            number = 6,
+        },
+
+        ["Raise A Family"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "7/29/24",
+            number = 7,
+        },
+
+        ["Blade Ball"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "10/19/24",
+            number = 8,
+        },
+
+        ["Highland Park"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "10/23/24",
+            number = 9,
+        },
+
+        ["BloxFruits"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "12/7/24",
+            number = 10,
+        },
+
+        ["Fisch"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "12/12/24",
+            number = 11,
+        },
+
+        ["RedwoodPrison RW"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "1/1/25",
+            number = 12,
+        },
+
+        ["Blue Lock Rivals"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "2/1/25",
+            number = 13,
+        },
+
+        ["Rivals"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "2/10/25",
+            number = 14,
+        },
+
+        ["The Strongest Battlegrounds"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "2/13/25",
+            number = 15,
+        },
+
+        ["Anime Adventures"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "2/22/25",
+            number = 16,
+        },
+
+        ["MM2"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "2/28/25",
+            number = 17,
+        },
+
+        ["Dead Rails"] = {
+            image = "",
+            crstatus = "WORKING",
+            creation_date = "3/8/25",
+            number = 18,
+        },
+    },
+
+
+discord_images = {
+    image_1 = "",
+    image_2 = "",
+    image_3 = "",
+    image_4 = "",
+
+},
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+return information
