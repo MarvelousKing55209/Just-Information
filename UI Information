@@ -29,7 +29,7 @@ local information = {
         },
 
         ["Swat VS Crims"] = {
-            image = "",
+            image = "rbxassetid://102329548861402",
             crstatus = "WORKING",
             creation_date = "7/12/24",
             number = 5,
