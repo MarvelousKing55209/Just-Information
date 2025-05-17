@@ -71,7 +71,7 @@ local information = {
         },
 
         ["Fisch"] = {
-            image = "",
+            image = "rbxassetid://109457731665073",
             crstatus = "WORKING",
             creation_date = "12/12/24",
             number = 11,
