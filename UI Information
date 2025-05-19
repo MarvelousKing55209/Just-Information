@@ -129,10 +129,10 @@ local information = {
 
 
 discord_images = {
-    image_1 = "",
-    image_2 = "",
-    image_3 = "",
-    image_4 = "",
+    image_1 = "rbxassetid://114308302492382",
+    image_2 = "rbxassetid://101003690917611",
+    image_3 = "rbxassetid://100770014747343",
+    image_4 = "rbxassetid://103383449451093",
 
 },
 
