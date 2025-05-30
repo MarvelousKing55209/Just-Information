@@ -18,9 +18,14 @@ local information = {
             image = "rbxassetid://138095285670273",
             crstatus = "WORKING",
             creation_date = "7/10/24",
+            number = 9,
+        },
+  ["Grow A Garden"] = {
+            image = "rbxassetid://125741633229532",
+            crstatus = "WORKING",
+            creation_date = "5/26/25",
             number = 3,
         },
-
         ["Prison Adventure"] = {
             image = "rbxassetid://94222669814140",
             crstatus = "WORKING",
