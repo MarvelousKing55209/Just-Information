@@ -14,12 +14,7 @@ local information = {
             number = 2,
         },
 
-        ["99 Nights In The Forest"] = {
-            image = "rbxassetid://92329979484446",
-            crstatus = "WORKING",
-            creation_date = "8/22/25",
-            number = 9,
-        },
+       
   ["Grow A Garden"] = {
             image = "rbxassetid://125741633229532",
             crstatus = "WORKING",
@@ -47,10 +42,10 @@ local information = {
             number = 6,
         },
 
-        ["Raise A Family"] = {
-            image = "rbxassetid://92452701280411",
+      ["99 Nights In The Forest"] = {
+            image = "rbxassetid://92329979484446",
             crstatus = "WORKING",
-            creation_date = "7/29/24",
+            creation_date = "8/22/25",
             number = 7,
         },
 
