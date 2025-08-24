@@ -130,7 +130,41 @@ local information = {
             creation_date = "3/8/25",
             number = 18,
         },
-    },
+   
+ ["99 Nights In The Forest"] = {
+            image = "rbxassetid://92329979484446",
+            crstatus = "WORKING",
+            creation_date = "8/22/25",
+            number = 19,
+        },
+
+  
+ ["Steal A Brainrot"] = {
+            image = "rbxassetid://82874103455868",
+            crstatus = "WORKING",
+            creation_date = "8/3/25",
+            number = 20,
+        },
+
+  
+ ["Arise Crossover"] = {
+            image = "rbxassetid://91290449640039",
+            crstatus = "WORKING",
+            creation_date = "6/2/25",
+            number = 21,
+        },
+
+  
+ ["Build A Plane"] = {
+            image = "rbxassetid://103805892467715",
+            crstatus = "WORKING",
+            creation_date = "8/13/25",
+            number = 22,
+        },
+
+
+
+},
 
 
 discord_images = {
