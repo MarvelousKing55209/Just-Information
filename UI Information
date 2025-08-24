@@ -14,10 +14,10 @@ local information = {
             number = 2,
         },
 
-        ["City Life"] = {
-            image = "rbxassetid://138095285670273",
+        ["99 Nights In The Forest"] = {
+            image = "rbxassetid://92329979484446",
             crstatus = "WORKING",
-            creation_date = "7/10/24",
+            creation_date = "8/22/25",
             number = 9,
         },
   ["Grow A Garden"] = {
@@ -26,17 +26,17 @@ local information = {
             creation_date = "5/26/25",
             number = 3,
         },
-        ["Prison Adventure"] = {
-            image = "rbxassetid://94222669814140",
+       ["Build A Plane"] = {
+            image = "rbxassetid://103805892467715",
             crstatus = "WORKING",
-            creation_date = "7/11/24",
+            creation_date = "8/13/25",
             number = 4,
         },
 
-        ["Swat VS Crims"] = {
-            image = "rbxassetid://102329548861402",
+       ["Arise Crossover"] = {
+            image = "rbxassetid://91290449640039",
             crstatus = "WORKING",
-            creation_date = "7/12/24",
+            creation_date = "6/2/25",
             number = 5,
         },
 
@@ -61,10 +61,10 @@ local information = {
             number = 8,
         },
 
-        ["Highland Park"] = {
-            image = "rbxassetid://88907988728353",
+      ["Steal A Brainrot"] = {
+            image = "rbxassetid://82874103455868",
             crstatus = "WORKING",
-            creation_date = "10/23/24",
+            creation_date = "8/3/25",
             number = 9,
         },
 
@@ -131,36 +131,16 @@ local information = {
             number = 18,
         },
    
- ["99 Nights In The Forest"] = {
-            image = "rbxassetid://92329979484446",
-            crstatus = "WORKING",
-            creation_date = "8/22/25",
-            number = 19,
-        },
+
 
   
- ["Steal A Brainrot"] = {
-            image = "rbxassetid://82874103455868",
-            crstatus = "WORKING",
-            creation_date = "8/3/25",
-            number = 20,
-        },
+
 
   
- ["Arise Crossover"] = {
-            image = "rbxassetid://91290449640039",
-            crstatus = "WORKING",
-            creation_date = "6/2/25",
-            number = 21,
-        },
+ 
 
   
- ["Build A Plane"] = {
-            image = "rbxassetid://103805892467715",
-            crstatus = "WORKING",
-            creation_date = "8/13/25",
-            number = 22,
-        },
+
 
 
 
