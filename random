@@ -16,7 +16,10 @@ islandtype = "Island2",
 placeid = 131884594917121,
 islandtype = "Island3",
 },
-
+["The Peak"] = {
+placeid = 131884594917121,
+islandtype = "Island3",
+},
 
 
 
