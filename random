@@ -1,8 +1,22 @@
 return {
-["Iron Valley"] = 76558904092080,
-["Forgotten Kingdom"] = 129009554587176,
-["Goblin Cave"] = 129009554587176,
-["Frostspire Expanse"] = 131884594917121,
+["Iron Valley"] = {
+placeid = 76558904092080,
+islandtype = "Island1",
+},
+["Forgotten Kingdom"] = {
+placeid = 129009554587176,
+islandtype = "Island2",
+},
+["Goblin Cave"] = {
+placeid = 129009554587176,
+islandtype = "Island2",
+},
+
+["Frostspire Expanse"] = {
+placeid = 131884594917121,
+islandtype = "Island3",
+},
+
 
 
 
