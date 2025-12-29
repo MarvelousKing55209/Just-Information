@@ -2,10 +2,12 @@ return {
 ["Iron Valley"] = {
 placeid = 76558904092080,
 islandtype = "Island1",
+tpString = "Stonewake's Cross",
 },
 ["Forgotten Kingdom"] = {
 placeid = 129009554587176,
 islandtype = "Island2",
+tpString = "Forgotten Kingdom",
 },
 ["Goblin Cave"] = {
 placeid = 129009554587176,
@@ -15,6 +17,7 @@ islandtype = "Island2",
 ["Frostspire Expanse"] = {
 placeid = 131884594917121,
 islandtype = "Island3",
+tpString = "Frostspire Expanse",
 },
 ["The Peak"] = {
 placeid = 131884594917121,
